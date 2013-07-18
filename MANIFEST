@@ -1,0 +1,10 @@
+Build.PL
+Changes
+lib/Config/MultiJSON.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/00-config.t
+t/00-config.d/test_config.json

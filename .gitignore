@@ -1,0 +1,6 @@
+_build
+blib
+Build
+Config-MultiJSON-*.tar.gz
+Makefile.PL
+META.yml

@@ -1,0 +1,6 @@
+# Comment
+{
+    # Indented comment (space)
+    "a": {"b": {"c": 3}}
+	# Indented comment (tab)
+}
